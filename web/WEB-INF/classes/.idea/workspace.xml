@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mypetstore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a89db5f-9ad1-4a04-9f0c-0a4563b8528c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LiangMypetstore" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1RSQlO2nGyACXQYM7wYLQaeoN5F" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15375" />
+    <property name="project.structure.side.proportion" value="0.20323326" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\samsung\IdeaProjects\LiangMypetstore\web\JavaScript" />
+      <recent name="D:\Users\samsung\IdeaProjects\LiangMypetstore\web" />
+      <recent name="D:\SourceCode\My\Web\LiangMypetstore\web\WEB-INF\jsp\log" />
+      <recent name="D:\SourceCode\My\Web\LiangMypetstore\web\sql" />
+      <recent name="D:\SourceCode\My\Web\LiangMypetstore\src\org\csu\mypetstore" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.csu.mypetstore.web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SourceCode\My\Web\LiangMypetstore\web\WEB-INF" />
+      <recent name="D:\Users\samsung\IdeaProjects\mypetstore\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="mypetstore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/myhoupetstore" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_45_mypetstore" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62548" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mypetstore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a89db5f-9ad1-4a04-9f0c-0a4563b8528c" name="Default Changelist" comment="" />
+      <created>1569658167723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569658167723</updated>
+      <workItem from="1569658171425" duration="1798000" />
+      <workItem from="1569762751646" duration="2491000" />
+      <workItem from="1569800861494" duration="2059000" />
+      <workItem from="1570090035179" duration="15451000" />
+      <workItem from="1570153312124" duration="98000" />
+      <workItem from="1570153562419" duration="58727000" />
+      <workItem from="1570321931017" duration="47745000" />
+      <workItem from="1570548515210" duration="2842000" />
+      <workItem from="1570579652800" duration="27012000" />
+      <workItem from="1570686285425" duration="18026000" />
+      <workItem from="1570877595481" duration="1148000" />
+      <workItem from="1570894776154" duration="5308000" />
+      <workItem from="1570935751753" duration="8821000" />
+      <workItem from="1570955646362" duration="11231000" />
+      <workItem from="1570973007857" duration="6833000" />
+      <workItem from="1571025917310" duration="5856000" />
+      <workItem from="1571050615397" duration="2576000" />
+      <workItem from="1571228870843" duration="660000" />
+      <workItem from="1571317568977" duration="4670000" />
+      <workItem from="1571327765480" duration="3151000" />
+      <workItem from="1571371936464" duration="4505000" />
+      <workItem from="1571389427126" duration="1654000" />
+      <workItem from="1571393300457" duration="4458000" />
+      <workItem from="1571401366665" duration="3045000" />
+      <workItem from="1571409586405" duration="7364000" />
+      <workItem from="1571497336909" duration="1683000" />
+      <workItem from="1571841428873" duration="285000" />
+      <workItem from="1571927886471" duration="915000" />
+      <workItem from="1572055565090" duration="67082000" />
+      <workItem from="1572251122297" duration="19795000" />
+      <workItem from="1572307563521" duration="4260000" />
+      <workItem from="1572497338861" duration="144000" />
+      <workItem from="1573094611879" duration="611000" />
+      <workItem from="1573224116014" duration="13000" />
+      <workItem from="1573346855323" duration="526000" />
+      <workItem from="1573608659784" duration="139000" />
+      <workItem from="1573624819162" duration="40000" />
+      <workItem from="1573689054517" duration="119000" />
+      <workItem from="1573696382677" duration="1302000" />
+      <workItem from="1573737909700" duration="13000" />
+      <workItem from="1573894518920" duration="79000" />
+      <workItem from="1573969761117" duration="104000" />
+      <workItem from="1574230061309" duration="98000" />
+      <workItem from="1574230176327" duration="15304000" />
+      <workItem from="1574349839770" duration="611000" />
+      <workItem from="1574691743974" duration="5070000" />
+      <workItem from="1574861448182" duration="3630000" />
+      <workItem from="1574865140974" duration="3089000" />
+      <workItem from="1574928436704" duration="1319000" />
+      <workItem from="1580370638441" duration="1987000" />
+      <workItem from="1580889677187" duration="603000" />
+      <workItem from="1582602351760" duration="1004000" />
+      <workItem from="1582627079436" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/csu/mypetstore/web/ViewOrderFromListServlet.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
